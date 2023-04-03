@@ -4,6 +4,6 @@
 
   <default remote="origin" revision="master"  sync-j="4" />
 
-	<project path="trackerslist"  name="trackerslist" />
-	<project path="GitNotes"  name="GitNotes" />
+	<project path="git-study"  name="git-studyg" />
+	<project path="linux_foundation"  name="linux_foundation" />
 </manifest>
