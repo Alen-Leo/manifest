@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="origin" fetch="https://github.com/Alen-Leo/"/>
+	<remote name="origin" fetch="https://gitee.com/Alen-Leo/"/>
 
   <default remote="origin" revision="master"  sync-j="4" />
 
-	<project path="git-study"  name="git-studyg" />
-	<project path="linux_foundation"  name="linux_foundation" />
+	<project path="git-study"  name="git-studyg.git" />
+	<project path="linux_foundation"  name="linux_foundation.git" />
 </manifest>
